@@ -1,0 +1,548 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "useName": "xyz",
+      "email": "email@gmail.com",
+      "password": "password",
+      "recipie": [
+        {
+          "userid": 1,
+          "id": 1,
+          "recipieName": "DAL FRY",
+          "imgLink": "https://foodyoushouldtry.com/wp-content/uploads/2017/04/dal-fry.jpg",
+          "video-link": "https://www.youtube.com/embed/8VmHKCI7gMM",
+          "ingredients": [
+            "1.Dal(toor dal or arhar dal)",
+            "2.Ghee or oil",
+            "3.Onions(1-2)",
+            "4.Tomatoes(1-2)",
+            "5.Spices(musturd and cumin seeds,ginger-garlic paste,turmeric,garam masala,chilli powder,chillies,kasuri methi)"
+          ],
+          "steps": [
+            "1.Take about 1 cup of soaked dal with 2 and 1/2 cups of water into the pressure cooker.",
+            "2.Let it cook for 2 whistles on medium heat and then open the pressure cooker.",
+            "3.Heat 1 and 1/2 spoon of ghee in a pan.",
+            "4.1/2 teaspoon of cumin seeds and 1 broken dried red chilli.",
+            "4.Add 1/8 teespoon of hing and 1 curry leaf.",
+            "5.Add finely chopped onionds and 1-2 chopped green chilli.",
+            "6.Add ginger garlic paste and 1/2 cup of chopped tomatoes.",
+            "7.Saute until the tomatoes turn mushy and soft.",
+            "8.Add masalas 1/4 teaspoon turmaric,garam masala and chili powder.",
+            "9.Now add the cooked dal into the mixture.",
+            "10.Let it cook for 4-5 minutes."
+          ],
+          "rating": 4.5
+        },
+        {
+          "userid": 1,
+          "id": 2,
+          "recipieName": "TANDOOR PANEER TIKKA",
+          "imgLink": "https://2.bp.blogspot.com/-neI6rKuvsKI/VyN8GMrfhzI/AAAAAAAAHls/hugFFTKYgs8lrtUSXx0iEyG-KZwL4bPbwCLcB/s1600/tandoori-paneer-tikka4.jpg",
+          "videoLink": "https://www.youtube.com/embed/IS7T_PhffGs",
+          "ingredients": [
+            "1.Paneer",
+            "2.Marinade(hung curd and spices powder)",
+            "3.veggies(bell peppers and onions)"
+          ],
+          "steps": [
+            "1.You will need ½ cup each of onions and capsicum.cut them into big pieces.",
+            "2.You will need 1 tablespoon of crushed ginger-garlic paste.",
+            "3.Slice 200 to 250 grams block or paneer into cubes or squares and keep aside.",
+            "4.Put 200 grams hung curd in a bowl. With a whisk beat the curd lightly till smoothand add the spices powder.",
+            "5.Add ½ tablespoon lemon juice and salt and mustard oil.",
+            "6.Mix well then Add the onions, capsicum and paneer to the marinade.",
+            "7.Cover and keep the marinated paneer and veggies in the refrigerator for 2 hours or more.",
+            "8.Begin to thread the veggies and paneer alternately on bamboo skewers. and grill then at 230 to 240 degrees celsius for 15 to 20 minutes.",
+            "9.let them cool and then enjoy."
+          ],
+          "rating": 4
+        },
+        {
+          "userid": 2,
+          "id": 3,
+          "recipieName": "BANANA PANCAKES",
+          "imgLink": "https://th.bing.com/th/id/OIP.motKKNqqdS6wgGO52oO5nAHaKX?w=208&h=291&c=7&r=0&o=5&pid=1.7",
+          "videoLink": "https://www.youtube.com/embed/V3kKP0f3yB0",
+          "ingredients": [
+            "1.Ripe banana",
+            "2.Eggs(2)",
+            "3.Tablespoons of oats(2-4)"
+          ],
+          "steps": [
+            "1.Make the pancake batter by adding the ingredients and mixing them throughly.",
+            "2.Pour the batter(1/4 cup) on a medium heated nonstick cooking pan.",
+            "3.When the pancake loosens flip the other side to bake.",
+            "4.Stack 3-4 such pancakes one upon another and shower some honey(optional) or eat directly."
+          ],
+          "rating": 4.7
+        },
+        {
+          "userid": 1,
+          "id": 4,
+          "recipieName": "BANANA CHIPS",
+          "imgLink": "https://www.cookwithkushi.com/wp-content/uploads/2016/08/IMG_2038_.jpg",
+          "videoLink": "https://www.youtube.com/embed/TS9NEZ3dUGw",
+          "ingredients": [
+            "1.Raw banana(2-3)",
+            "2.Coconut oil(300 ml)"
+          ],
+          "steps": [
+            "1.Peel the skin of banana and slice it into very thin slices.",
+            "2.place a kadai, pour enough coconut oil on high flame.",
+            "3.heat the coconut oil for 5 minutes, take a small piece of banana pour in to the oil.",
+            "4.check both the sides are well fried or not else.",
+            "5.deep fry and take out the chips.",
+            "6.season it with salt and enjoy."
+          ],
+          "rating": 3.5
+        },
+        {
+          "userid": 1,
+          "id": 5,
+          "recipieName": "CHICKEN DO PYAZA",
+          "imgLink": "https://th.bing.com/th/id/R.3d07c3ceb83bed0c6908e2a93b5ecc3c?rik=wsB%2fPFKOdbn4Lg&riu=http%3a%2f%2fwww.tasty-indian-recipes.com%2fwp-content%2fuploads%2f2015%2f03%2fChilli-Chicken-Recipe-2.jpg&ehk=VZE93nmkvvUdRU4ostimiY1uLYOzA0%2b8aD7che2ZrSU%3d&risl=&pid=ImgRaw&r=0",
+          "videoLink": "https://www.youtube.com/embed/z7S3AwHcoTU",
+          "ingredients": [
+            "1. 1kg Chicken","2. Onions","3. tsp Garlic paste","4.1 tsp Ginger paste","5.1 tbsp Red chilli powder","6.1/2 tbsp Desi ghee"
+          ],
+          "steps": [
+            "1.Mix green cardamom powder, mace powder, clove powder, cinnamon powder and black cardamom powder.",
+            "2.Cut chicken into even size pieces and marinate with garlic paste, ginger paste, salt and some red chilli powder.",
+            "3.Finely chop one onion and cut the other into large pieces. Blend tomatoes to make a puree.",
+            "4.Heat desi ghee in a pan. Add garlic and ginger paste.",
+            "5.When it turns brown, add chopped onions and cook till it turns golden brown. Now add tomato puree and salt.",
+            "6.Take some yoghurt in a bowl, add turmeric and red chilli powder and mix it well. Add this mixture to the tomato puree and cook for some time.",
+            "7.Add coriander powder, cumin powder, the marinated chicken, the onion cut into large pieces, water and garam masala.",
+            "8.season it with salt and enjoy."
+          ],
+          "rating": 4.5
+        },
+        {
+          "userid": 1,
+          "id": 6,
+          "recipieName": "CHOLE BHTURE",
+          "imgLink": "https://2.bp.blogspot.com/-OU_L_dlS_G0/Wx9rVpMKeVI/AAAAAAAAAEE/lL6pyCPBVoQkBxbpYZg9wRt6-Lce51C7ACLcBGAs/s1600/imperial%2Binn.jpg",
+          "videoLink": "https://www.youtube.com/embed/4iFxHnzI2Fw",
+          "ingredients": [
+            "1. 1cup white chickpeas a couple","2. Onions","3. tsp Garlic paste","4.1 tsp Ginger paste","5.1 tbsp Red chilli powder","6.1/2 tbsp Desi ghee"
+          ],
+          "steps": [
+            "1.First rinse 1 cup white chickpeas a couple of times in water. Then soak them in enough water overnight or for 7 to 8 hours.",
+            "2.Next day they will double in size.",
+            "3.Then drain the water.",
+            "4. In a 3 litre pressure cooker add the chickpeas. Also add 3 cups water and ¼ teaspoon salt. I have used a pressure cooker but you can also use a pot or pan.",
+            "5.Pressure cook chickpeas for 10 to 12 whistles or for about 15 to 20 minutes or till they are tender and cooked well.",
+            "6.Once done then drain all the water and keep the cooked chickpeas aside.",
+            "7.chop 1 medium-sized onion, 2 medium-sized tomatoes, 1 green chili, 4 to 5 medium-sized garlic cloves and 1 inch ginger.",
+            "8.season it with salt and enjoy.",
+            "9.Make a fine paste in a grinder or blender. No need to add water while making the paste as the juice of the tomatoes will help in making the paste. keep the jar aside.",
+            "10. Keep stirring often. Sauté for 8 to 10 minutes or more till the oil starts to leave the sides of the masala paste. The paste will also thicken and become glossy. "
+    
+          ],
+          "rating": 4.3
+        },
+        {
+      "userid": 1,
+      "id": 7,
+      "recipieName": "SAMOSA",
+      "imgLink": "https://recipes.timesofindia.com/thumb/55453664.cms?imgsize=317782&width=800&height=800",
+      "videoLink": "https://www.youtube.com/embed/qWwtDDWT3xo",
+      "ingredients": [
+          "1. 1cup white chickpeas flour","2. Onions","3. tsp Garlic paste","4.potatoes","5.1 tbsp Red chilli powder","6.1/2 tbsp Desi ghee"
+      ],
+      "steps": [
+        "1. you only need to bring the dough together. If you overwork it, the samosa will be hard.",
+        "2.soft dough will not give crispy samosa.",
+        "3.always remember to let the dough rest for at least 30 to 40 minutes before you start making the samosa.",
+        "4.try to roll the dough thin and evenly. If the dough is rolled thick, it will take a long time for the dough to get cooked. Also we all like thin crispy edges of the samosa, agree?",
+        "5. you can apply little oil on your rolling pin."
+    
+      ],
+      "rating":3.9
+    }
+      ]
+    },
+    {
+      "id": 2,
+      "useName": "abc",
+      "email": "email@gmail.com",
+      "password": "abc123",
+      "recipie": [
+            
+    {
+      "userid": 1,
+      "id": 8,
+      "recipieName": "CHICKEN BUTTER MASALA",
+      "imgLink": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/07/chicken-butter-masala-recipe.jpg",
+      "videoLink": "https://www.youtube.com/embed/E9bSLVgw0qI",
+      "ingredients": [
+          "1. Best cut of Chicken","2. Onions","3.Yogurt","4.1 tsp Ginger paste","5.Spices","6.Tomatoes","7.Cashew nuts","9.Butter","10.Kasuri Methi"
+      ],
+      "steps": [
+        "1.Start by mixing all the ingredients under marinade and adding the chicken to it.",
+        "2.Mix well, cover and set aside for 15-30 minutes while you make the gravy.",
+        "3.3-4 Once the chicken has been marinating for 15-30 minutes, heat a tablespoon of oil in a cast iron skillet or a non stick pan. ",
+        "4.  For the gravy, heat 1 tablespoon oil and 1 tablespoon butter in a skillet or pan.",
+        "5.Add cinnamon, cardamom, cloves, whole red chilies and garlic. Saute for a minute or so till fragrant.",
+        "6.Add onions and saute on high heat for 2-3 minutes till pink and translucent.",
+        "7.8-9 Add tomatoes and cashew nuts. Mix once, reduce the flame to a simmer and cover and cook for 10-15 minutes till the tomatoes start breaking down.",
+        "8.season it with salt and enjoy.",
+        "9.Make a fine paste in a grinder or blender. No need to add water while making the paste as the juice of the tomatoes will help in making the paste. keep the jar aside.",
+        "10. Keep stirring often. Sauté for 8 to 10 minutes or more till the oil starts to leave the sides of the masala paste. The paste will also thicken and become glossy. "
+    
+      ],
+      "rating": 4.6
+    },
+    
+    {
+      "userid": 1,
+      "id": 8,
+      "recipieName": "CHICKEN BUTTER MASALA",
+      "imgLink": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/07/chicken-butter-masala-recipe.jpg",
+      "videoLink": "https://www.youtube.com/embed/E9bSLVgw0qI",
+      "ingredients": [
+    "1. Best cut of Chicken","2. Onions","3.Yogurt","4.1 tsp Ginger paste","5.Spices","6.Tomatoes","7.Cashew nuts","9.Butter","10.Kasuri Methi"
+      ],
+      "steps": [
+        "1.Start by mixing all the ingredients under marinade and adding the chicken to it.",
+        "2.Mix well, cover and set aside for 15-30 minutes while you make the gravy.",
+        "3.3-4 Once the chicken has been marinating for 15-30 minutes, heat a tablespoon of oil in a cast iron skillet or a non stick pan. ",
+        "4.  For the gravy, heat 1 tablespoon oil and 1 tablespoon butter in a skillet or pan.",
+        "5.Add cinnamon, cardamom, cloves, whole red chilies and garlic. Saute for a minute or so till fragrant.",
+        "6.Add onions and saute on high heat for 2-3 minutes till pink and translucent.",
+        "7.8-9 Add tomatoes and cashew nuts. Mix once, reduce the flame to a simmer and cover and cook for 10-15 minutes till the tomatoes start breaking down.",
+        "8.season it with salt and enjoy.",
+        "9.Make a fine paste in a grinder or blender. No need to add water while making the paste as the juice of the tomatoes will help in making the paste. keep the jar aside."
+      ],
+      "rating": 4.6
+    },
+    
+    {
+      "userid": 1,
+      "id": 9,
+      "recipieName": "FISH CURRY",
+      "imgLink": "https://yudhikayumyum.files.wordpress.com/2015/03/img_7139.jpg?w=2000&h=1334",
+      "videoLink": "https://www.youtube.com/embed/9Htrz59HfRE",
+      "ingredients": [
+          "1. Best cut of fish","2. Kashmiri chilli","3.Fenugreek ","4.1 tsp Ginger paste","5.Spices","6.Turmeric","7.Tamarind"
+      ],
+      "steps": [
+        "1.Start by mixing all the ingredients under marinade and adding the fish to it.",
+        "2.And here what you need for the curry sauce in addition to the curry paste.",
+        "3. this is to make the spice flavours bloom and cook the onion, garlic and ginger. Also, to cook out the water that we added to help the paste puree.",
+        "4. Add coconut milk and remaining sauce ingredient.",
+        "5.Add cinnamon, cardamom, cloves, whole red chilies and garlic. Saute for a minute or so till fragrant.",
+        "6.Add onions and saute on high heat for 2-3 minutes till pink and translucent.",
+        "7.Simmer for 5 minutes to reduce and bring the flavours together.",
+        "8.Add fish in the last few minutes it only takes 3 to 4 minutes to cook.",
+        "9.Garnish with fresh coriander and green chillies."
+      ],
+      "rating": 4.1
+    },
+    
+    {
+      "userid": 1,
+      "id": 10,
+      "recipieName": "TANDOORI SOYA CHAAP",
+      "imgLink": "https://img-global.cpcdn.com/recipes/00bf6382d75471a8/1502x1064cq70/tandoori-soya-chaap-recipe-main-photo.jpg",
+      "videoLink": "https://www.youtube.com/embed/2UZ1vYy2B8o",
+      "ingredients": [
+        "1. Chaat masala","2. Kashmiri chilli","3.cream","4.1 tsp Ginger paste","5.Spices","6.onions","7.lime juice","8.soya chaap"
+      ],
+      "steps": [
+        "1.Remove the stick from 4-5 chaap and cut them into ½-inch pieces.",
+        "2.Add and mix all the pastes and spices to make curry paste.",
+        "3. tAdd the soya chaap pieces to the bowl and mix well to coat them with the marinade.",
+        "4.Thread the chaap in metal skewers.",
+        "5.Cook over direct flame until nicely browned and slightly charred. Keep rotating the skewers at regular intervals so that they brown evenly.",
+        "6.Add onions and saute .",
+        "7.Cook over direct flame until nicely browned and slightly charred. Keep rotating the skewers at regular intervals so that they brown evenly."
+    
+      ],
+      "rating": 3.6
+    }
+      ]
+    }
+  ],
+
+
+
+
+  "rook": [
+    {
+      "userid": 1,
+      "id": 1,
+      "recipieName": "DAL FRY",
+      "imgLink": "https://foodyoushouldtry.com/wp-content/uploads/2017/04/dal-fry.jpg",
+      "video-link": "https://www.youtube.com/embed/8VmHKCI7gMM",
+      "ingredients": [
+        "1.Dal(toor dal or arhar dal)",
+        "2.Ghee or oil",
+        "3.Onions(1-2)",
+        "4.Tomatoes(1-2)",
+        "5.Spices(musturd and cumin seeds,ginger-garlic paste,turmeric,garam masala,chilli powder,chillies,kasuri methi)"
+      ],
+      "steps": [
+        "1.Take about 1 cup of soaked dal with 2 and 1/2 cups of water into the pressure cooker.",
+        "2.Let it cook for 2 whistles on medium heat and then open the pressure cooker.",
+        "3.Heat 1 and 1/2 spoon of ghee in a pan.",
+        "4.1/2 teaspoon of cumin seeds and 1 broken dried red chilli.",
+        "4.Add 1/8 teespoon of hing and 1 curry leaf.",
+        "5.Add finely chopped onionds and 1-2 chopped green chilli.",
+        "6.Add ginger garlic paste and 1/2 cup of chopped tomatoes.",
+        "7.Saute until the tomatoes turn mushy and soft.",
+        "8.Add masalas 1/4 teaspoon turmaric,garam masala and chili powder.",
+        "9.Now add the cooked dal into the mixture.",
+        "10.Let it cook for 4-5 minutes."
+      ],
+      "rating": 4.5
+    },
+    {
+      "userid": 1,
+      "id": 2,
+      "recipieName": "TANDOOR PANEER TIKKA",
+      "imgLink": "https://2.bp.blogspot.com/-neI6rKuvsKI/VyN8GMrfhzI/AAAAAAAAHls/hugFFTKYgs8lrtUSXx0iEyG-KZwL4bPbwCLcB/s1600/tandoori-paneer-tikka4.jpg",
+      "videoLink": "https://www.youtube.com/embed/IS7T_PhffGs",
+      "ingredients": [
+        "1.Paneer",
+        "2.Marinade(hung curd and spices powder)",
+        "3.veggies(bell peppers and onions)"
+      ],
+      "steps": [
+        "1.You will need ½ cup each of onions and capsicum.cut them into big pieces.",
+        "2.You will need 1 tablespoon of crushed ginger-garlic paste.",
+        "3.Slice 200 to 250 grams block or paneer into cubes or squares and keep aside.",
+        "4.Put 200 grams hung curd in a bowl. With a whisk beat the curd lightly till smoothand add the spices powder.",
+        "5.Add ½ tablespoon lemon juice and salt and mustard oil.",
+        "6.Mix well then Add the onions, capsicum and paneer to the marinade.",
+        "7.Cover and keep the marinated paneer and veggies in the refrigerator for 2 hours or more.",
+        "8.Begin to thread the veggies and paneer alternately on bamboo skewers. and grill then at 230 to 240 degrees celsius for 15 to 20 minutes.",
+        "9.let them cool and then enjoy."
+      ],
+      "rating": 4
+    },
+    {
+      "userid": 2,
+      "id": 3,
+      "recipieName": "BANANA PANCAKES",
+      "imgLink": "https://th.bing.com/th/id/OIP.motKKNqqdS6wgGO52oO5nAHaKX?w=208&h=291&c=7&r=0&o=5&pid=1.7",
+      "videoLink": "https://www.youtube.com/embed/V3kKP0f3yB0",
+      "ingredients": [
+        "1.Ripe banana",
+        "2.Eggs(2)",
+        "3.Tablespoons of oats(2-4)"
+      ],
+      "steps": [
+        "1.Make the pancake batter by adding the ingredients and mixing them throughly.",
+        "2.Pour the batter(1/4 cup) on a medium heated nonstick cooking pan.",
+        "3.When the pancake loosens flip the other side to bake.",
+        "4.Stack 3-4 such pancakes one upon another and shower some honey(optional) or eat directly."
+      ],
+      "rating": 4.7
+    },
+    {
+      "userid": 1,
+      "id": 4,
+      "recipieName": "BANANA CHIPS",
+      "imgLink": "https://www.cookwithkushi.com/wp-content/uploads/2016/08/IMG_2038_.jpg",
+      "videoLink": "https://www.youtube.com/embed/TS9NEZ3dUGw",
+      "ingredients": [
+        "1.Raw banana(2-3)",
+        "2.Coconut oil(300 ml)"
+      ],
+      "steps": [
+        "1.Peel the skin of banana and slice it into very thin slices.",
+        "2.place a kadai, pour enough coconut oil on high flame.",
+        "3.heat the coconut oil for 5 minutes, take a small piece of banana pour in to the oil.",
+        "4.check both the sides are well fried or not else.",
+        "5.deep fry and take out the chips.",
+        "6.season it with salt and enjoy."
+      ],
+      "rating": 3.5
+    },
+    {
+      "userid": 1,
+      "id": 5,
+      "recipieName": "CHICKEN DO PYAZA",
+      "imgLink": "https://th.bing.com/th/id/R.3d07c3ceb83bed0c6908e2a93b5ecc3c?rik=wsB%2fPFKOdbn4Lg&riu=http%3a%2f%2fwww.tasty-indian-recipes.com%2fwp-content%2fuploads%2f2015%2f03%2fChilli-Chicken-Recipe-2.jpg&ehk=VZE93nmkvvUdRU4ostimiY1uLYOzA0%2b8aD7che2ZrSU%3d&risl=&pid=ImgRaw&r=0",
+      "videoLink": "https://www.youtube.com/embed/z7S3AwHcoTU",
+      "ingredients": [
+        "1. 1kg Chicken","2. Onions","3. tsp Garlic paste","4.1 tsp Ginger paste","5.1 tbsp Red chilli powder","6.1/2 tbsp Desi ghee"
+      ],
+      "steps": [
+        "1.Mix green cardamom powder, mace powder, clove powder, cinnamon powder and black cardamom powder.",
+        "2.Cut chicken into even size pieces and marinate with garlic paste, ginger paste, salt and some red chilli powder.",
+        "3.Finely chop one onion and cut the other into large pieces. Blend tomatoes to make a puree.",
+        "4.Heat desi ghee in a pan. Add garlic and ginger paste.",
+        "5.When it turns brown, add chopped onions and cook till it turns golden brown. Now add tomato puree and salt.",
+        "6.Take some yoghurt in a bowl, add turmeric and red chilli powder and mix it well. Add this mixture to the tomato puree and cook for some time.",
+        "7.Add coriander powder, cumin powder, the marinated chicken, the onion cut into large pieces, water and garam masala.",
+        "8.season it with salt and enjoy."
+      ],
+      "rating": 4.5
+    },
+    {
+      "userid": 1,
+      "id": 6,
+      "recipieName": "CHOLE BHTURE",
+      "imgLink": "https://2.bp.blogspot.com/-OU_L_dlS_G0/Wx9rVpMKeVI/AAAAAAAAAEE/lL6pyCPBVoQkBxbpYZg9wRt6-Lce51C7ACLcBGAs/s1600/imperial%2Binn.jpg",
+      "videoLink": "https://www.youtube.com/embed/4iFxHnzI2Fw",
+      "ingredients": [
+        "1. 1cup white chickpeas a couple","2. Onions","3. tsp Garlic paste","4.1 tsp Ginger paste","5.1 tbsp Red chilli powder","6.1/2 tbsp Desi ghee"
+      ],
+      "steps": [
+        "1.First rinse 1 cup white chickpeas a couple of times in water. Then soak them in enough water overnight or for 7 to 8 hours.",
+        "2.Next day they will double in size.",
+        "3.Then drain the water.",
+        "4. In a 3 litre pressure cooker add the chickpeas. Also add 3 cups water and ¼ teaspoon salt. I have used a pressure cooker but you can also use a pot or pan.",
+        "5.Pressure cook chickpeas for 10 to 12 whistles or for about 15 to 20 minutes or till they are tender and cooked well.",
+        "6.Once done then drain all the water and keep the cooked chickpeas aside.",
+        "7.chop 1 medium-sized onion, 2 medium-sized tomatoes, 1 green chili, 4 to 5 medium-sized garlic cloves and 1 inch ginger.",
+        "8.season it with salt and enjoy.",
+        "9.Make a fine paste in a grinder or blender. No need to add water while making the paste as the juice of the tomatoes will help in making the paste. keep the jar aside.",
+        "10. Keep stirring often. Sauté for 8 to 10 minutes or more till the oil starts to leave the sides of the masala paste. The paste will also thicken and become glossy. "
+
+      ],
+      "rating": 4.3
+    },
+    {
+  "userid": 1,
+  "id": 7,
+  "recipieName": "SAMOSA",
+  "imgLink": "https://recipes.timesofindia.com/thumb/55453664.cms?imgsize=317782&width=800&height=800",
+  "videoLink": "https://www.youtube.com/embed/qWwtDDWT3xo",
+  "ingredients": [
+      "1. 1cup white chickpeas flour","2. Onions","3. tsp Garlic paste","4.potatoes","5.1 tbsp Red chilli powder","6.1/2 tbsp Desi ghee"
+  ],
+  "steps": [
+    "1. you only need to bring the dough together. If you overwork it, the samosa will be hard.",
+    "2.soft dough will not give crispy samosa.",
+    "3.always remember to let the dough rest for at least 30 to 40 minutes before you start making the samosa.",
+    "4.try to roll the dough thin and evenly. If the dough is rolled thick, it will take a long time for the dough to get cooked. Also we all like thin crispy edges of the samosa, agree?",
+    "5. you can apply little oil on your rolling pin."
+
+  ],
+  "rating":3.9
+},
+
+{
+  "userid": 1,
+  "id": 8,
+  "recipieName": "CHICKEN BUTTER MASALA",
+  "imgLink": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/07/chicken-butter-masala-recipe.jpg",
+  "videoLink": "https://www.youtube.com/embed/E9bSLVgw0qI",
+  "ingredients": [
+      "1. Best cut of Chicken","2. Onions","3.Yogurt","4.1 tsp Ginger paste","5.Spices","6.Tomatoes","7.Cashew nuts","9.Butter","10.Kasuri Methi"
+  ],
+  "steps": [
+    "1.Start by mixing all the ingredients under marinade and adding the chicken to it.",
+    "2.Mix well, cover and set aside for 15-30 minutes while you make the gravy.",
+    "3.3-4 Once the chicken has been marinating for 15-30 minutes, heat a tablespoon of oil in a cast iron skillet or a non stick pan. ",
+    "4.  For the gravy, heat 1 tablespoon oil and 1 tablespoon butter in a skillet or pan.",
+    "5.Add cinnamon, cardamom, cloves, whole red chilies and garlic. Saute for a minute or so till fragrant.",
+    "6.Add onions and saute on high heat for 2-3 minutes till pink and translucent.",
+    "7.8-9 Add tomatoes and cashew nuts. Mix once, reduce the flame to a simmer and cover and cook for 10-15 minutes till the tomatoes start breaking down.",
+    "8.season it with salt and enjoy.",
+    "9.Make a fine paste in a grinder or blender. No need to add water while making the paste as the juice of the tomatoes will help in making the paste. keep the jar aside.",
+    "10. Keep stirring often. Sauté for 8 to 10 minutes or more till the oil starts to leave the sides of the masala paste. The paste will also thicken and become glossy. "
+
+  ],
+  "rating": 4.6
+},
+
+{
+  "userid": 1,
+  "id": 8,
+  "recipieName": "CHICKEN BUTTER MASALA",
+  "imgLink": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/07/chicken-butter-masala-recipe.jpg",
+  "videoLink": "https://www.youtube.com/embed/E9bSLVgw0qI",
+  "ingredients": [
+"1. Best cut of Chicken","2. Onions","3.Yogurt","4.1 tsp Ginger paste","5.Spices","6.Tomatoes","7.Cashew nuts","9.Butter","10.Kasuri Methi"
+  ],
+  "steps": [
+    "1.Start by mixing all the ingredients under marinade and adding the chicken to it.",
+    "2.Mix well, cover and set aside for 15-30 minutes while you make the gravy.",
+    "3.3-4 Once the chicken has been marinating for 15-30 minutes, heat a tablespoon of oil in a cast iron skillet or a non stick pan. ",
+    "4.  For the gravy, heat 1 tablespoon oil and 1 tablespoon butter in a skillet or pan.",
+    "5.Add cinnamon, cardamom, cloves, whole red chilies and garlic. Saute for a minute or so till fragrant.",
+    "6.Add onions and saute on high heat for 2-3 minutes till pink and translucent.",
+    "7.8-9 Add tomatoes and cashew nuts. Mix once, reduce the flame to a simmer and cover and cook for 10-15 minutes till the tomatoes start breaking down.",
+    "8.season it with salt and enjoy.",
+    "9.Make a fine paste in a grinder or blender. No need to add water while making the paste as the juice of the tomatoes will help in making the paste. keep the jar aside."
+  ],
+  "rating": 4.6
+},
+
+{
+  "userid": 1,
+  "id": 9,
+  "recipieName": "FISH CURRY",
+  "imgLink": "https://yudhikayumyum.files.wordpress.com/2015/03/img_7139.jpg?w=2000&h=1334",
+  "videoLink": "https://www.youtube.com/embed/9Htrz59HfRE",
+  "ingredients": [
+      "1. Best cut of fish","2. Kashmiri chilli","3.Fenugreek ","4.1 tsp Ginger paste","5.Spices","6.Turmeric","7.Tamarind"
+  ],
+  "steps": [
+    "1.Start by mixing all the ingredients under marinade and adding the fish to it.",
+    "2.And here what you need for the curry sauce in addition to the curry paste.",
+    "3. this is to make the spice flavours bloom and cook the onion, garlic and ginger. Also, to cook out the water that we added to help the paste puree.",
+    "4. Add coconut milk and remaining sauce ingredient.",
+    "5.Add cinnamon, cardamom, cloves, whole red chilies and garlic. Saute for a minute or so till fragrant.",
+    "6.Add onions and saute on high heat for 2-3 minutes till pink and translucent.",
+    "7.Simmer for 5 minutes to reduce and bring the flavours together.",
+    "8.Add fish in the last few minutes it only takes 3 to 4 minutes to cook.",
+    "9.Garnish with fresh coriander and green chillies."
+  ],
+  "rating": 4.1
+},
+
+{
+  "userid": 1,
+  "id": 10,
+  "recipieName": "TANDOORI SOYA CHAAP",
+  "imgLink": "https://img-global.cpcdn.com/recipes/00bf6382d75471a8/1502x1064cq70/tandoori-soya-chaap-recipe-main-photo.jpg",
+  "videoLink": "https://www.youtube.com/embed/2UZ1vYy2B8o",
+  "ingredients": [
+    "1. Chaat masala","2. Kashmiri chilli","3.cream","4.1 tsp Ginger paste","5.Spices","6.onions","7.lime juice","8.soya chaap"
+  ],
+  "steps": [
+    "1.Remove the stick from 4-5 chaap and cut them into ½-inch pieces.",
+    "2.Add and mix all the pastes and spices to make curry paste.",
+    "3. tAdd the soya chaap pieces to the bowl and mix well to coat them with the marinade.",
+    "4.Thread the chaap in metal skewers.",
+    "5.Cook over direct flame until nicely browned and slightly charred. Keep rotating the skewers at regular intervals so that they brown evenly.",
+    "6.Add onions and saute .",
+    "7.Cook over direct flame until nicely browned and slightly charred. Keep rotating the skewers at regular intervals so that they brown evenly."
+
+  ],
+  "rating": 3.6
+}
+],
+
+
+
+
+
+
+    "admin": [
+      {
+        "username": "23",
+        "email": "23@gmail.com",
+        "password": "234",
+        "id": 1
+      },
+      {
+        "username": "24",
+        "email": "24@gmail.com",
+        "password": "245",
+        "id": 2
+      },
+      {
+        "username": "231",
+        "email": "231@gmail.com",
+        "password": "2314",
+        "id": 3
+      }
+    ]
+}

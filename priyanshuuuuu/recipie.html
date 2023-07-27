@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial;
+  color: rgb(247, 240, 240);
+background: url('wood1.jpg');
+  background-repeat: none;
+  background-size: cover;
+  background-position: fixed;
+}
+
+.split {
+  height: 80%;
+  width: 49.8%;
+  position: absolute;
+  z-index: 1;
+  top: 10%;
+  overflow-x: hidden;
+  border-radius:2%;
+ 
+}
+
+.left {
+  left: 2px;
+  background-color: rgba(163, 163, 162,0.8);
+
+}
+
+.right {
+  right: 2px;
+  background-color:  rgba(47, 47, 47, 0.8);
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.centered img {
+  width: 150px;
+}
+
+#recipie-container{
+  background-color: black;
+  opacity:1;
+  position: absolute;
+  top:95%;
+  border-radius: 15%;
+  padding: 25px;
+  width: 80vw;
+  right: 10%;
+}
+.iframe{
+  opacity: 1;
+}
+</style>
+</head>
+<body onload="gotRecipie()">
+
+<div class="split left">
+  <div class="centered">
+     <iframe id="youtube" height="315" width="560" title="Iframe Example" style="opacity: 1;"></iframe>
+    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/n3U4jFbp05M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+</div>
+</div>
+
+<div class="split right">
+  <div class="centered">
+    <img src="" alt="Avatar man">
+    <div class="stepshow">
+        <p id="ingredients"></p>
+    </div>
+  </div>
+</div>
+
+<div id="recipie-container">
+  
+</div>
+     <script src="balu.js"></script>
+</body>
+</html> 
